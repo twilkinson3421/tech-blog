@@ -1,0 +1,17 @@
+.hero {
+  background-color: #201c24;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem;
+  gap: 1rem;
+}
+
+.herotitle {
+  font-size: 3rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+.herodesc {
+  font-family: 'Roboto Mono', monospace;
+}

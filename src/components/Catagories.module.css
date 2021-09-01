@@ -1,0 +1,7 @@
+.tempMain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(50px, 5vw, 5vw);
+  font-weight: bold;
+}
